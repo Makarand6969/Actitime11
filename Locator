@@ -1,0 +1,6 @@
+All types of locators
+driver.findelement-css
+driver.findelement-linktext
+driver.findelement-partialLinktext
+driver.findelement-csslocator
+driver.findelement-xpath
